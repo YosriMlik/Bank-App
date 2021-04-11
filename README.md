@@ -1,4 +1,4 @@
 # Bank-App
 A simple bank managment app 
-Programming Language: Java
-IDE: NetBeans
+- Programming Language: Java
+- IDE: NetBeans
